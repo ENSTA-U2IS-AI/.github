@@ -7,7 +7,9 @@ This GitHub organization includes codes and resources mostly centered on the var
 
 Don't hesitate to reach out and follow if you are interested!
 
-## Most recent papers in Deep Learning
+<div align="center">
+  <h2> Most recent papers in Deep Learning </h2>
+</div>
 
 - Laurent, O., Lafage, A., Tartaglione, E., Daniel, G., Martinez, J. M., Bursuc, A., & Franchi, G. (2023). Packed-Ensembles for Efficient Uncertainty Estimation. In ICLR, 2023. [[ArXiv]](https://arxiv.org/pdf/2210.09184.pdf)
 - Hariat, M., Manzanera, A., & Filliat, D. (2023). Rebalancing Gradient To Improve Self-Supervised Co-Training of Depth, Odometry and Optical Flow Predictions. In WACV, 2023. [[Paper]](https://hal.science/hal-03964607/file/wacv23.pdf)
