@@ -8,7 +8,7 @@ This GitHub organization includes codes and resources mostly centered on the var
 Don't hesitate to reach out and follow if you are interested!
 
 <div align="center">
-  <h2> Most recent papers in Deep Learning </h2>
+  <h2> Most Recent Papers in Deep Learning </h2>
 </div>
 
 - Laurent, O., Lafage, A., Tartaglione, E., Daniel, G., Martinez, J. M., Bursuc, A., & Franchi, G. (2023). Packed-Ensembles for Efficient Uncertainty Estimation. In ICLR, 2023. [[ArXiv]](https://arxiv.org/pdf/2210.09184.pdf)
