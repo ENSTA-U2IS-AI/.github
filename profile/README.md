@@ -9,7 +9,7 @@ This GitHub organization includes codes and resources mostly centered on the var
 Don't hesitate to reach out and follow if you are interested!
 
 <div align="center">
-  <h2> Most Recent Papers in Deep Learning </h2>
+  <h2> Latest Papers in Deep Learning </h2>
 </div>
 
 - Hariat, M., Laurent, O., Kazmierczak, R., Bursuc, A., Yao, A., & Franchi, G. (2023). Learning to Generate Training Datasets for Robust Semantic Segmentation. [[ArXiv]](https://arxiv.org/abs/2308.02535)
