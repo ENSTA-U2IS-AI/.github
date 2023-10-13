@@ -4,7 +4,7 @@
 
 Welcome to the GitHub page of [U2IS](http://u2is.ensta-paris.fr/?lang=en), the computer science 💻 and robotics 🤖 laboratory of [ENSTA Paris](https://www.ensta-paris.fr/en)!
 
-This GitHub organization includes codes and resources mostly centered on the various aspects of vision, uncertainty, and deep learning.
+This GitHub organization includes codes and resources mostly centered on vision, uncertainty, and deep learning.
 
 Don't hesitate to reach out and follow if you are interested!
 
@@ -12,6 +12,7 @@ Don't hesitate to reach out and follow if you are interested!
   <h2> Latest Papers in Deep Learning </h2>
 </div>
 
+- Laurent, O., Aldea E. & Franchi, G. (2023). A Symmetry-Aware Exploration of Bayesian Neural Network Posteriors. [[ArXiv]](https://arxiv.org/pdf/2310.08287.pdf).
 - Laroudie, C., Bursuc, A., Ha, M. L., & Franchi, G. (2023). Improving CLIP Robustness with Knowledge Distillation and Self-Training. [[ArXiv]](https://arxiv.org/pdf/2309.10361.pdf).
 - Franchi, G., Hariat, M., Yu, X., Belkhir, N., Manzanera, A., & Filliat, D. (2023). InfraParis: A multi-modal and multi-task autonomous driving dataset.[[ArXiv]](https://arxiv.org/pdf/2309.15751.pdf).
 - Yu, X., Franchi, G., Gu, J., & Aldea, E. (2023). Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. [[ArXiv]](https://arxiv.org/pdf/2308.09065.pdf).
