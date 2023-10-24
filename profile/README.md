@@ -16,7 +16,7 @@ Don't hesitate to reach out and follow if you are interested!
 - Laroudie, C., Bursuc, A., Ha, M. L., & Franchi, G. (2023). Improving CLIP Robustness with Knowledge Distillation and Self-Training. [[ArXiv]](https://arxiv.org/pdf/2309.10361.pdf).
 - Franchi, G., Hariat, M., Yu, X., Belkhir, N., Manzanera, A., & Filliat, D. (2023). InfraParis: A multi-modal and multi-task autonomous driving dataset.[[ArXiv]](https://arxiv.org/pdf/2309.15751.pdf).
 - Yu, X., Franchi, G., Gu, J., & Aldea, E. (2023). Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. [[ArXiv]](https://arxiv.org/pdf/2308.09065.pdf).
-- Hariat, M., Laurent, O., Kazmierczak, R., Bursuc, A., Yao, A., & Franchi, G. (2023). Learning to Generate Training Datasets for Robust Semantic Segmentation. [[ArXiv]](https://arxiv.org/abs/2308.02535).
+- Hariat, M., Laurent, O., Kazmierczak, R., Bursuc, A., Yao, A., & Franchi, G. (2023). Learning to Generate Training Datasets for Robust Semantic Segmentation. [[WACV, 2024]](https://arxiv.org/abs/2308.02535).
 - Laurent, O., Lafage, A., Tartaglione, E., Daniel, G., Martinez, J. M., Bursuc, A., & Franchi, G. Packed-Ensembles for Efficient Uncertainty Estimation. In [[ICLR, 2023]](https://arxiv.org/pdf/2210.09184.pdf).
 - Hariat, M., Manzanera, A., & Filliat, D. Rebalancing Gradient To Improve Self-Supervised Co-Training of Depth, Odometry and Optical Flow Predictions. In [[WACV, 2023]](https://hal.science/hal-03964607/file/wacv23.pdf).
 - Franchi, G., Yu, X., Bursuc, A., Aldea, E., Dubuisson, S., & Filliat, D. Latent Discriminant Deterministic Uncertainty. In [[ECCV, 2022]](https://arxiv.org/pdf/2207.10130.pdf).
