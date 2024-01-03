@@ -12,7 +12,7 @@ Don't hesitate to reach out and follow if you are interested!
   <h2> Latest Papers in Deep Learning </h2>
 </div>
 
-- Yu, X., Franchi, G., Gu, J., & Aldea, E. Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. [[AAAI, 2024]](https://arxiv.org/pdf/2308.09065.pdf).
+- Yu, X., Franchi, G., Gu, J., & Aldea, E. Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. In [[AAAI, 2024]](https://arxiv.org/pdf/2308.09065.pdf).
 - Franchi, G., Bursuc, A., Aldea, E., Dubuisson, S., & Bloch, I. (2023). Encoding the latent posterior of Bayesian neural networks for uncertainty quantification. [[TPAMI]](https://arxiv.org/pdf/2012.02818.pdf).
 - Laurent, O., Aldea E. & Franchi, G. (2023). A Symmetry-Aware Exploration of Bayesian Neural Network Posteriors. [[ArXiv]](https://arxiv.org/pdf/2310.08287.pdf).
 - Laroudie, C., Bursuc, A., Ha, M. L., & Franchi, G. (2023). Improving CLIP Robustness with Knowledge Distillation and Self-Training. [[ArXiv]](https://arxiv.org/pdf/2309.10361.pdf).
