@@ -12,6 +12,9 @@ Don't hesitate to reach out and follow if you are interested!
   <h2> Latest Papers in Deep Learning </h2>
 </div>
 
+- Franchi, G., Laurent, O., Leguéry, M., Bursuc, A., Pilzer, A., & Yao, A. (2023). Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models. [[ArXiv]](https://arxiv.org/abs/2312.15297).
+- Kazmierczak, R., Berthier, E., Frehse, G., & Franchi, G. (2023). CLIP-QDA: An Explainable Concept Bottleneck Model. arXiv preprint arXiv:2312.00110. [[ArXiv]](https://arxiv.org/pdf/2312.00110.pdf).
+- Ammar, M. B., Belkhir, N., Popescu, S., Manzanera, A., & Franchi, G. (2023). NECO: NEural Collapse Based Out-of-distribution Detection. [[ArXiv]](https://arxiv.org/pdf/2310.06823.pdf).
 - Yu, X., Franchi, G., Gu, J., & Aldea, E. Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. In [[AAAI, 2024]](https://arxiv.org/pdf/2308.09065.pdf).
 - Franchi, G., Bursuc, A., Aldea, E., Dubuisson, S., & Bloch, I. (2023). Encoding the latent posterior of Bayesian neural networks for uncertainty quantification. [[TPAMI]](https://arxiv.org/pdf/2012.02818.pdf).
 - Laurent, O., Aldea E. & Franchi, G. (2023). A Symmetry-Aware Exploration of Bayesian Neural Network Posteriors. [[ArXiv]](https://arxiv.org/pdf/2310.08287.pdf).
