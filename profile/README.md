@@ -12,7 +12,7 @@ Don't hesitate to reach out and follow if you are interested!
   <h2> Latest News </h2>
 </div>
 
-🎉 Three papers of the lab were accepted at ICLR 2024 🎉
+🎉 Three papers from the lab were accepted at ICLR 2024 🎉
 
 Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncertainty Quantification](ensta-u2is.github.io/uqt/) 🎉
 
