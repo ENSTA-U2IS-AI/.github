@@ -12,7 +12,8 @@ Don't hesitate to reach out and follow if you are interested!
   <h2> Latest News </h2>
 </div>
 
-🎉 Three papers from the lab were accepted at ICLR 2024 🎉
+🎉 Five papers from the lab were accepted at ICLR 2024 🎉
+🎉 One paper from the lab wax accepted at AAAI 2024 🎉
 
 Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncertainty Quantification](ensta-u2is.github.io/uqt/) 🎉
 
@@ -20,8 +21,10 @@ Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncer
   <h2> Latest Papers in Deep Learning </h2>
 </div>
 
-- Ammar, M. B., Belkhir, N., Popescu, S., Manzanera, A., & Franchi, G. NECO: NEural Collapse Based Out-of-distribution Detection. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.06823.pdf).
 - Laurent, O., Aldea E. & Franchi, G. A Symmetry-Aware Exploration of Bayesian Neural Network Posteriors. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.08287.pdf).
+- Ammar, M. B., Belkhir, N., Popescu, S., Manzanera, A., & Franchi, G. NECO: NEural Collapse Based Out-of-distribution Detection. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.06823.pdf).
+- Zadem, M., Mover, S., & Nguyen, S. M. Reconciling Spatial and Temporal Abstractions for Goal Representation. In [[ICLR, 2024]](https://arxiv.org/abs/2401.09870).
+- Brellmann, D., Berthier, E., Filliat, D., & Frehse, G. (2023). On Double-Descent in Reinforcement Learning with LSTD and Random Features. In [[ICLR, 2024]](https://arxiv.org/abs/2310.05518).
 - Xu, K., Chen, R., Franchi, G., & Yao, A. Scaling for Training Time and Post-hoc Out-of-distribution Detection Enhancement. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.00227.pdf).
 - Franchi, G., Laurent, O., Leguéry, M., Bursuc, A., Pilzer, A., & Yao, A. (2023). Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models. [[ArXiv]](https://arxiv.org/abs/2312.15297).
 - Kazmierczak, R., Berthier, E., Frehse, G., & Franchi, G. (2023). CLIP-QDA: An Explainable Concept Bottleneck Model. arXiv preprint arXiv:2312.00110. [[ArXiv]](https://arxiv.org/pdf/2312.00110.pdf).
