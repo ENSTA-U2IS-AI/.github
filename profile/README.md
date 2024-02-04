@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>ENSTA Paris - U2IS</h1>
+  <h1>ENSTA Paris - IA teams </h1>
 </div>
 
-Welcome to the GitHub page of [U2IS](http://u2is.ensta-paris.fr/?lang=en), the computer science 💻 and robotics 🤖 laboratory of [ENSTA Paris](https://www.ensta-paris.fr/en)!
+Welcome to the GitHub page of IA teams of [U2IS](http://u2is.ensta-paris.fr/?lang=en), the computer science 💻 and robotics 🤖 laboratory of [ENSTA Paris](https://www.ensta-paris.fr/en)!
 
 This GitHub organization includes codes and resources mostly centered on vision, uncertainty, and deep learning.
 
