@@ -14,7 +14,7 @@ Don't hesitate to reach out and follow if you are interested!
 
 🎉 Five papers from the lab were accepted at ICLR 2024 🎉
 
-🎉 One paper from the lab wax accepted at AAAI 2024 🎉
+🎉 One paper from the lab was accepted at AAAI 2024 🎉
 
 Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncertainty Quantification](ensta-u2is.github.io/uqt/) 🎉
 
