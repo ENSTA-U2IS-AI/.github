@@ -8,6 +8,8 @@ This GitHub organization includes codes and resources mostly centered on vision,
 
 Don't hesitate to reach out and follow if you are interested!
 
+📚 [Link to our Reading Group](https://ensta-u2is-ai.github.io/u2is-reading-group/)  📚
+
 <div align="center">
   <h2> Latest News </h2>
 </div>
