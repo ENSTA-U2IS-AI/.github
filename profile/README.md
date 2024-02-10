@@ -18,7 +18,7 @@ Reach out and follow if you are interested!
 
 🎉 One paper from the lab was accepted at AAAI 2024 🎉
 
-Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncertainty Quantification](ensta-u2is.github.io/uqt/) 🎉
+Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncertainty Quantification](ensta-u2is-ai.github.io/uqt/) 🎉
 
 <div align="center">
   <h2> Latest Papers in Deep Learning </h2>
