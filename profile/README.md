@@ -24,12 +24,12 @@ Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncer
   <h2> Latest Papers in Deep Learning </h2>
 </div>
 
+- Franchi, G., Laurent, O., Leguéry, M., Bursuc, A., Pilzer, A., & Yao, A. Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models. [[CVPR, 2024]](https://arxiv.org/abs/2312.15297).
 - Laurent, O., Aldea E. & Franchi, G. A Symmetry-Aware Exploration of Bayesian Neural Network Posteriors. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.08287.pdf).
 - Ammar, M. B., Belkhir, N., Popescu, S., Manzanera, A., & Franchi, G. NECO: NEural Collapse Based Out-of-distribution Detection. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.06823.pdf).
 - Zadem, M., Mover, S., & Nguyen, S. M. Reconciling Spatial and Temporal Abstractions for Goal Representation. In [[ICLR, 2024]](https://arxiv.org/abs/2401.09870).
 - Brellmann, D., Berthier, E., Filliat, D., & Frehse, G. On Double-Descent in Reinforcement Learning with LSTD and Random Features. In [[ICLR, 2024]](https://arxiv.org/abs/2310.05518).
 - Xu, K., Chen, R., Franchi, G., & Yao, A. Scaling for Training Time and Post-hoc Out-of-distribution Detection Enhancement. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.00227.pdf).
-- Franchi, G., Laurent, O., Leguéry, M., Bursuc, A., Pilzer, A., & Yao, A. Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models. [[ArXiv]](https://arxiv.org/abs/2312.15297).
 - Kazmierczak, R., Berthier, E., Frehse, G., & Franchi, G. (2023). CLIP-QDA: An Explainable Concept Bottleneck Model. arXiv preprint arXiv:2312.00110. [[ArXiv]](https://arxiv.org/pdf/2312.00110.pdf).
 - Yu, X., Franchi, G., Gu, J., & Aldea, E. Discretization-Induced Dirichlet Posterior for Robust Uncertainty Quantification on Regression. In [[AAAI, 2024]](https://arxiv.org/pdf/2308.09065.pdf).
 - Franchi, G., Bursuc, A., Aldea, E., Dubuisson, S., & Bloch, I. Encoding the latent posterior of Bayesian neural networks for uncertainty quantification. [[TPAMI]](https://arxiv.org/pdf/2012.02818.pdf).
