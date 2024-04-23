@@ -8,7 +8,7 @@ This GitHub organization includes codes and resources mostly centered on uncerta
 
 Reach out and follow if you are interested!
 
-📚 [Link to our Reading Group](https://ensta-u2is-ai.github.io/Reading-Group/)  📚
+<!--  📚 [Link to our Reading Group](https://ensta-u2is-ai.github.io/Reading-Group/)  📚 -->
 
 <div align="center">
   <h2> Latest News </h2>
