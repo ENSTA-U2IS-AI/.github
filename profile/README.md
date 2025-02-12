@@ -24,7 +24,8 @@ Gianni presented a Tutorial at 🌴 WACV 2024 🌴: [The Nuts and Bolts of Uncer
   <h2> Latest Papers in Deep Learning </h2>
 </div>
 
-- Franchi, G., Laurent, O., Leguéry, M., Bursuc, A., Pilzer, A., & Yao, A. Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models. [[CVPR, 2024]](https://arxiv.org/abs/2312.15297).
+- Lafage, A., Barbier, M., Franchi, G., & Filliat, D. Hierarchical Light Transformer Ensembles for Multimodal Trajectory Forecasting. In [[WACV, 2025]](https://arxiv.org/abs/2403.17678).
+- Franchi, G., Laurent, O., Leguéry, M., Bursuc, A., Pilzer, A., & Yao, A. Make Me a BNN: A Simple Strategy for Estimating Bayesian Uncertainty from Pre-trained Models. In [[CVPR, 2024]](https://arxiv.org/abs/2312.15297).
 - Laurent, O., Aldea E. & Franchi, G. A Symmetry-Aware Exploration of Bayesian Neural Network Posteriors. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.08287.pdf).
 - Ammar, M. B., Belkhir, N., Popescu, S., Manzanera, A., & Franchi, G. NECO: NEural Collapse Based Out-of-distribution Detection. In [[ICLR, 2024]](https://arxiv.org/pdf/2310.06823.pdf).
 - Zadem, M., Mover, S., & Nguyen, S. M. Reconciling Spatial and Temporal Abstractions for Goal Representation. In [[ICLR, 2024]](https://arxiv.org/abs/2401.09870).
